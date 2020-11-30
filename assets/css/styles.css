@@ -1,0 +1,25 @@
+.text-box {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#home {
+  background: url(../../assets/img/mountain_bg.jpg) 50% 0 repeat-y fixed;
+  color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 90vh;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+
