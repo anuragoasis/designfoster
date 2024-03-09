@@ -2278,7 +2278,6 @@ section {
 .footer .footer-top {
   background: url(../img/footer-bg.png) no-repeat right top;
   background-size: contain;
-  border-top: 1px solid #e1ecff;
   padding: 60px 0 30px 0;
 }
 
