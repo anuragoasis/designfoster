@@ -11,8 +11,8 @@
   /* Make the rubber band scroll not show empty white space */
   top: -10%;
   height: 120%;
-  min-height: 120vh;
-/*   margin-bottom: -20%; */
+/*   min-height: 120vh; */
+  margin-bottom: -20%;
 }
 
 .stars {
@@ -53,6 +53,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
