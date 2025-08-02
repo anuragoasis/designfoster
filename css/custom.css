@@ -2,6 +2,7 @@
   position: relative;
   overflow: hidden;
 }
+
 .titan-background {
   position: absolute;
   width: 100%;
@@ -52,6 +53,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
