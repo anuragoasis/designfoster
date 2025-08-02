@@ -1,5 +1,6 @@
 .position-relative{
   position: relative;
+  overflow: hidden;
 }
 .titan-background {
   position: absolute;
@@ -51,6 +52,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
