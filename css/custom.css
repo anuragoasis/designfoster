@@ -1,4 +1,5 @@
-.position-relative{
+.starscustom{
+  position: relative;
   overflow: hidden;
 }
 
@@ -52,6 +53,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
