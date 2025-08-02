@@ -6,6 +6,7 @@
 .titan-background {
   position: absolute;
   width: 100%;
+  background-color: rgb(14,14,14);
   overflow: hidden;
   z-index: 1;
   /* Make the rubber band scroll not show empty white space */
@@ -53,6 +54,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
