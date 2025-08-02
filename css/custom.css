@@ -6,12 +6,13 @@
 .titan-background {
   position: absolute;
   width: 100%;
+  background-image: linear-gradient(-180deg, #000000 0%, #200835 100%);
   overflow: hidden;
-  z-index: 1;
+  z-index: -1;
   /* Make the rubber band scroll not show empty white space */
   top: -10%;
   height: 120%;
-  min-height: 50vh;
+  min-height: 120vh;
   margin-bottom: -20%;
 }
 
@@ -53,6 +54,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
