@@ -1,5 +1,4 @@
 .position-relative{
-  position: relative;
   overflow: hidden;
 }
 
@@ -14,7 +13,6 @@
   height: 120%;
   min-height: 120vh;
   margin-bottom: -20%;
-  pointer-events: none; 
 }
 
 .stars {
@@ -55,6 +53,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
