@@ -10,8 +10,8 @@
   z-index: 1;
   /* Make the rubber band scroll not show empty white space */
   top: -10%;
-  height: 40%;
-  min-height: 40vh;
+  height: 120%;
+  min-height: 50vh;
   margin-bottom: -20%;
 }
 
@@ -53,6 +53,7 @@
     transform: translate(-80%, -40%);
   }
 }
+
 
 
 
